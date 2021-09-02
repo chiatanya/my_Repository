@@ -1,12 +1,12 @@
-#add
+#add implimentation
 def add(x,y):
     pass
-#subtract
+#subtract implimentation
 def subtract(x,y):
     pass
-#multiply
+#multiply implimentation
 def multiply(x,y):
     pass
-#devide
+#devide implimentation
 def divide(x,y):
     pass
