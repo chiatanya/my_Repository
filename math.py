@@ -3,7 +3,7 @@ def add(x,y):
     return x+y
 #subtract implimentation
 def subtract(x,y):
-    pass
+    return x-y               # from remote main
 #multiply implimentation
 def multiply(x,y):
     pass
